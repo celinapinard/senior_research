@@ -1,4 +1,4 @@
-# senior_research
+# Senior Research Project
 
 # Evaluating the Effect of Customer Request Clarity on AI Chatbot Intent Recognition and Response Quality
 
